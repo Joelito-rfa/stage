@@ -1,4 +1,4 @@
-// Ce fichier peut être utilisé pour ajouter des interactions JavaScript futures
+// Ce fichier peut être utilisé pour ajouter des interactions JavaScript futures 
 // Par exemple, des validations de formulaire côté client, des effets visuels, etc.
 // Pour l'instant, il est vide, mais sa présence est importante pour la structure.
 
